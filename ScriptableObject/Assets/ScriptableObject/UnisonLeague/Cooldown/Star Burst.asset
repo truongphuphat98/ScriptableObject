@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ba3d892aaee331439eda53afbe1224c, type: 3}
+  m_Name: Star Burst
+  m_EditorClassIdentifier: 
+  abilityName: Star Burst
+  abilityRank: Tower of Judgement
+  abilityDescription: Ability Power 70. Damages one enemy 5 times with magic damage
+    that ignores damage reduction and damage reflection at success of 80 points
+  abilitySprite: {fileID: 2800000, guid: b9518ae2930800749beb2f9649a2fbcc, type: 3}
+  abilityclass: 3
+  currentCooldown: 8
+  maxCooldown: 8

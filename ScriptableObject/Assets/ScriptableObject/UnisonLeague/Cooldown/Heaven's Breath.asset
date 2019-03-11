@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ba3d892aaee331439eda53afbe1224c, type: 3}
+  m_Name: Heaven's Breath
+  m_EditorClassIdentifier: 
+  abilityName: Heaven's Breath
+  abilityRank: Knight
+  abilityDescription: Increases your character's max HP by 30% for 90 seconds
+  abilitySprite: {fileID: 2800000, guid: 255228aa3af7d6c43becc054e8772ee2, type: 3}
+  abilityclass: 1
+  currentCooldown: 60
+  maxCooldown: 60
